@@ -1,0 +1,7 @@
+{
+  "name": "Dra. Heloize Monteiro - Ortodontia",
+  "description": "Site profissional da Dra. Heloize Monteiro, especialista em Ortodontia e Ortopedia Facial.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
